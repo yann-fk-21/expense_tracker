@@ -1,0 +1,6 @@
+[ERROR] 2024/11/10 13:24:14 main.go:27: dial tcp: lookup http://localhost:3306: no such host
+[ERROR] 2024/11/10 13:24:14 main.go:28: dial tcp: lookup http://localhost:3306: no such host
+[ERROR] 2024/11/10 13:24:34 main.go:27: dial tcp: lookup http://localhost:3306: no such host
+[ERROR] 2024/11/10 13:24:34 main.go:28: dial tcp: lookup http://localhost:3306: no such host
+[ERROR] 2024/11/10 13:25:15 main.go:27: dial tcp: lookup http://localhost:3306: no such host
+[ERROR] 2024/11/10 13:25:15 main.go:28: dial tcp: lookup http://localhost:3306: no such host
